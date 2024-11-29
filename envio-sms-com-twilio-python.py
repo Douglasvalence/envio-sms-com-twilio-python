@@ -11,7 +11,7 @@ sender_phone_number = "+123456789"
 recipient_phone_number = "+123456789"
 
 # Mensagem que deseja enviar
-mensagem = "PARABÉNS!!! VOCÊ GANHOU 1 MILHÃO DE BEIJOS!!! POR SER A MELHOR ESPOSA E A MELHOR MÃE DO MUNDOO!!! S2   TE AMO!   ASS:Douglas"
+mensagem = "Olá, Esta é uma mensagem teste!"
 
 def enviar_mensagem_sms(numero_destino, mensagem):
     try:
